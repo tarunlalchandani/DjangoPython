@@ -1,1 +1,17 @@
+This file contains the essential things of this repository
+So while going through the course we essentially moved to install python 3 by going
+to python.org and then we installed the python
+1. we learned an important syntax to print things at the console in python that is
+
+*print("Hello my name is {} and I am {} years old".format(name,age))* where name and age
+are the variables
+2. For commenting we learnt that we can comment either by # or by ''' text '''
+
+3. also we can use + like 
+print(name+"Lalchandani")
+
+4. We learnt about if statements and elif
+5. We learnt about functions
+  def hello(name,age):
+    print("Hello" + name + "you are {} years".format(age))
 
