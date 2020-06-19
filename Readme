@@ -13,5 +13,13 @@ print(name+"Lalchandani")
 4. We learnt about if statements and elif
 5. We learnt about functions
   def hello(name,age):
-    print("Hello" + name + "you are {} years".format(age))
+    print("Hello" + na
+   me + "you are {} years".format(age))
+6. printing the list will not change the order of the list
+7. <list_name>.insert(<where you want to insert>,<listitem>)
+8. For deleting a element in the list just type del(dognames[2])
+9. For getting a length of the list use len(<listname>)
+10. You can store anything in python list
+11. for deleting in the dictionary del(<dictName>[])
+12. __init__ values are good to provide default values
 
